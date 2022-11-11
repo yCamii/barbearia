@@ -1,0 +1,27 @@
+nav li { 
+	display: inline;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+body {
+
+	background: black
+	margin: 0;
+	padding: 0;
+}
+
+#banner{
+	width: 100%;
+}
+
+
+
+h1{
+	font-family: 'Nabla', cursive;
+
+	
+	text-align: center;
+	font-size: 50px;
+	
+}
